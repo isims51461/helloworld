@@ -4,7 +4,7 @@ pipeline {
      maven "M2_HOME"
   }
   environment {
-    registry = "isims51461/devops-123"
+    registry = "isims51461/devops-1234"
     registryCredential = 'dockerUSERID"
   }
   stages {
